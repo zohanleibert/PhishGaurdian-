@@ -28,3 +28,6 @@ PhishGuardian is a simple Python tool that detects whether a given URL is **safe
 ```bash
 git clone https://github.com/yourusername/PhishGuardian.git
 cd PhishGuardian
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
